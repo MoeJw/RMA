@@ -1,0 +1,35 @@
+{
+    "Sales order Line  Items":[
+        {"MnjPartNo":"TY1M",
+        "UnitCost":1000,
+        "Description":"this is not what you think",
+        "QtyOrderd":1,
+        "UnitPrice":200,
+        "MfgPartNo":"E1T10",
+        "pricingCode":"DC"   },
+        {"MnjPartNo":"T8XO",
+            "UnitCost":1000,
+            "Description":"this is not what you think",
+            "QtyOrderd":1,
+            "UnitPrice":200,
+            "MfgPartNo":"E1T1N",
+            "pricingCode":"DC"   }
+          ],
+    "Invoices List":[{
+        "InvoiceNo":"0003",
+    "QtyShipped":1,
+    "PfInvoiceNo":0,
+    "PoNo":"00007854",
+    "Total":1000798
+    },{
+        "InvoiceNo":"0003",
+    "QtyShipped":1,
+    "PfInvoiceNo":0,
+    "PoNo":"00007854",
+    "Total":1000798
+    }
+    ],
+    "Invoice Line Items":[
+        {"SeqNo":1,"MfgPartNo":"E1T1N","TotalQty":1}
+    ]
+}
