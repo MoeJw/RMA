@@ -1,0 +1,9 @@
+.MuiTableCell-alignLeft {
+  text-align: left;
+  border: 1px solid;
+}
+.MuiTableCell-alignLeft {
+  /* the header of the 3 and the button*/
+  text-align: right;
+  border: 1px solid #e0e0e0;
+}
