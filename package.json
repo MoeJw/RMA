@@ -13,7 +13,7 @@
     "react": "^16.12.0",
     "react-crud-table": "0.0.8",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@types/react": "16.9.19",
